@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <link rel="stylesheet" href="contact.css" >
+       <img id="logo" src="header_logo.svg" alt="logo">
+    </head>
+<body>
+     <header id="header">
+         <ul>
+         <li class="NEV">Products</li>
+         <li class="NEV">Templates</li>
+         <li class="NEV">Pricing</li>
+         <li    class="NEV">Resoucres</li>
+         <li       class="NEV">Blog</li>
+         <li    class="buton">14 DAY FREE TRIAL</li>
+         <li    class="buton-2">LOG IN</li>
+            </ul>
+        </header>
+
+    <section> 
+        <h1 id="titre">  CONTACT US  </h1>
+        <p id="PG">Our dream team of conversion specialists are looking forward to hearing from you!</p>
+        
+    </section>
+       
+    <section id="op">
+        <h2>Reach out to us</h2>
+        <p class="p.op">Got a question about lander ! want to partner with us! have some suggestions or just want to say "Hi" contact us: </p>
+    </section>
+</body>
+</html>

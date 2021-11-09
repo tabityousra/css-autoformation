@@ -1,0 +1,40 @@
+.abc{
+    display: flex;
+    flex-direction:row;
+   
+}
+.A{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    background-color: cornflowerblue;
+    width: 100%;
+}
+.B{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    background-color: darkorchid;
+    width: 100%;
+}
+.C{
+    Font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+    background-color: grey;
+    width: 100%;
+}
+.A1{
+    display: flex;
+    flex-direction:row-reverse;
+
+}
+.A2{
+    display: flex;
+    flex-direction:column;
+}
+.A3{
+    display: flex;
+    flex-direction:column-reverse
+}
+.A4{
+    display: flex;
+    flex-wrap: wrap;
+} 

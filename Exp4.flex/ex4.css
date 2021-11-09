@@ -1,0 +1,32 @@
+.AUTO{
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2rem;
+}
+.A{
+    background-color: indianred;
+    flex-grow: 1;
+}
+.B{
+    background-color: lightblue;
+    flex-grow: 2;
+}
+.C{
+    background-color:rgb(72, 72, 177);
+    flex-grow: 3;
+}
+.a{
+    flex-basis: 50px;
+    background-color: indianred;
+}
+.b{
+    flex-basis: 50px;
+    background-color: lightblue;
+}
+.c{
+    flex-basis: 100px;
+    background-color:rgb(72, 72, 177);
+}
+.BASIS{
+    display: flex;
+}
